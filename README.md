@@ -2,9 +2,9 @@
 
 Goat-Bot-V2 is a Facebook Messenger bot built around a personal account and a customizable command system. This checkout uses a local SQLite database and includes a shared-password web dashboard for group activity, ranking systems, and wallet management.
 
-[![GitHub stars](https://img.shields.io/github/stars/Team-Ban/Goat-Bot-V2)](https://github.com/Team-Ban/Goat-Bot-V2/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Team-Ban/Goat-Bot-V2)](https://github.com/Team-Ban/Goat-Bot-V2/network)
-[![GitHub issues](https://img.shields.io/github/issues/Team-Ban/Goat-Bot-V2)](https://github.com/Team-Ban/Goat-Bot-V2/issues)
+[![GitHub stars](https://img.shields.io/github/stars/rupomParX/Goat-Bot-V3)](https://github.com/rupomParX/Goat-Bot-V3/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rupomParX/Goat-Bot-V3)](https://github.com/rupomParX/Goat-Bot-V3/network)
+[![GitHub issues](https://img.shields.io/github/issues/rupomParX/Goat-Bot-V3)](https://github.com/rupomParX/Goat-Bot-V3/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Requirements
